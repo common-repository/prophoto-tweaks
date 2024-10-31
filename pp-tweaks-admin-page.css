@@ -1,0 +1,23 @@
+body .wrap #icon-themes {
+	background:url(http://prophoto.s3.amazonaws.com/img/tweaks-plugin-icon.png) no-repeat 0 -1px;
+}
+.pp-admin-msg {
+	margin-top:10px !important;
+}	
+form#pp-tweaks {
+	margin-top:20px;
+}
+.text-input {
+	margin:13px 0;
+}
+.text-input label {
+	display:block;
+	margin-bottom:5px;
+}
+.text-input.numeric label {
+	display:inline;
+}
+.text-input.numeric input {
+	margin-left:5px;
+	max-width:40px;
+}
